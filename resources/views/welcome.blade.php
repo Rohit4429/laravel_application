@@ -1,6 +1,6 @@
- 
+
 kjn
- 
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
@@ -25,6 +25,7 @@ kjn
     </head>
     <body class="antialiased">
         <h1>Welcome to landon!</h1>
+     {{"my name is rohit"}}
     </body>
 </html>
- 
+
